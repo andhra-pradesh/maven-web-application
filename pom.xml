@@ -92,11 +92,11 @@
 	      <name>Mithun Technologies Releases Nexus Repository</name>
             <url>http://13.232.197.217:8081/repository/relese1/</url>
 	    </repository>
-	    <snapshotRepository>
+	    <!-- <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
 	      <url>http://13.232.197.217:8081/repository/snap/</url>
-	    </snapshotRepository>
+	    </snapshotRepository> -->
 	</distributionManagement>
 	
 	<build>
