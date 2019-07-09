@@ -86,18 +86,18 @@
 
 	</dependencies>
 	
-	<!-- <distributionManagement>
+	 <distributionManagement>
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-            <url>http://13.232.197.217:8081/repository/relese1/</url>
+            <url>http://ec2-13-234-112-59.ap-south-1.compute.amazonaws.com:8081/repository/releasesmaven/</url>
 	    </repository>
 	         <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
 	      <url>http://13.232.197.217:8081/repository/snap/</url>
 	    </snapshotRepository>
-	</distributionManagement> -->
+	</distributionManagement> 
 	
 	<build>
 		<finalName>maven-web-application</finalName>
